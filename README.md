@@ -1,11 +1,9 @@
 
 
-# study_planner
 
 ###
-# 📚 Study Planner – Flutter Mobile Application
+## Study Planner – Flutter Mobile Application
 
-### Plan Smarter. Study Better. Achieve More.
 
 ## 1. Project Overview
 
